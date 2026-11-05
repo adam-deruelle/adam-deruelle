@@ -33,6 +33,7 @@ Looking for an **engineering work-study program (from September 2027)** in robot
 |---|---|
 | [Talos](https://github.com/adam-deruelle/Talos) | Robotics R&D, system architecture, DH kinematics |
 | [pico-traffic-light-controller](https://github.com/adam-deruelle/pico-traffic-light-controller) | GRAFCET → CircuitPython + CODESYS, PLC-style timers, embedded HMI |
+| [pico-retro-handheld](https://github.com/adam-deruelle/pico-retro-handheld) | Proteus PCB, etched and soldered, 3 games in CircuitPython |
 | [Acheron](https://github.com/adam-deruelle/Acheron-Echoes-Of-The-Deep) | VR development, team project |
 | [fiches_survie](https://github.com/adam-deruelle/fiches_survie) | Cheat sheets for embedded C & CircuitPython — synthesis skills |
 
@@ -72,6 +73,7 @@ Looking for an **engineering work-study program (from September 2027)** in robot
 |---|---|
 | [Talos](https://github.com/adam-deruelle/Talos) | R&D en robotique, architecture système, cinématique DH |
 | [pico-traffic-light-controller](https://github.com/adam-deruelle/pico-traffic-light-controller) | GRAFCET → CircuitPython + CODESYS, temporisations façon automate, IHM embarquée |
+| [pico-retro-handheld](https://github.com/adam-deruelle/pico-retro-handheld) | Carte Proteus, gravure et soudure, 3 jeux en CircuitPython |
 | [Acheron](https://github.com/adam-deruelle/Acheron-Echoes-Of-The-Deep) | Développement VR, projet d'équipe |
 | [fiches_survie](https://github.com/adam-deruelle/fiches_survie) | Fiches de C embarqué et CircuitPython — esprit de synthèse |
 
